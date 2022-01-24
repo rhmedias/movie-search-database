@@ -1,5 +1,6 @@
 {
   "name": "movie-search",
+  "homepage": "https://rhmedias.github.io/movie-search-database",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
